@@ -2,6 +2,7 @@
 # Convierte un número binario a hexadecimal.
 # El número binario es un string e.g. "101"
 # El número hexadecimal es también un string e.g. "AB5"
+# Hay otros ficheros disponibles.
 # ------------------------------------------------------
 
 def TablabinHex(cuatro_digitos_binarios):
